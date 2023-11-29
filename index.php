@@ -22,9 +22,12 @@
 
     <!----------------- PageClip CSS ------------------>
     <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
-
+    
 </head>
 <body>
+    <?php
+        echo "Hello Nikhil!!!
+      ?>
     <!--------- Mobile nav toggle button ----->
     <i class="bi bi-list-nested mobile-nav-toggle d-xl-none"></i>
 
