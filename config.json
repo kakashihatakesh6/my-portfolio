@@ -1,0 +1,26 @@
+{
+    "personalInformation": {
+      "name": "Nikhil Dasar",
+      "title": "Student || Web Developer || Android Developer",
+      "email": "nkdasar@gmail.com",
+      "location": "Bilaspur, Chhattishgarh, India",
+      "socialMedia": {
+        "github": "kakashihatakesh6",
+        "linkedin": "nikhil-dasar-baa2a5217"
+      }
+    },
+    "sections": {
+      "about": true,
+      "skills": true,
+      "projects": true,
+      "education": true,
+      "contact": true
+    },
+    "theme": {
+      "primaryColor": "#f78000",
+      "secondaryColor": "#4f200d",
+      "fontFamily": "PT Sans, sans-serif"
+    },
+    "showAnimations": true,
+    "enableDarkMode": false
+  }

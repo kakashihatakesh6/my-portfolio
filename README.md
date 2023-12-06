@@ -12,10 +12,11 @@ Welcome to the GitHub repository for my personal portfolio website. This reposit
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Customization](#customization)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
+
+Note:- If you are a complete beginner ignore these files package.json, config.json and LICENCE be focus on actual learning content.
 
 ## Features
 
@@ -48,19 +49,13 @@ The repository follows a specific structure to keep the codebase organized. Belo
 
 ### Additional Directories or Files
 
-- **`/your-custom-folder`**: [Description of the purpose of this folder]
+- **`/static/vendor`**: For additional vendor files used in this website.
 
-- **`config.json`**: [Description of the configuration file and its contents, if applicable]
-
-- **`/submodule`**: If your project includes submodules, explain their purpose and how to initialize/update them.
+- **`config.json`**: 
 
 ### Notable Files
 
-- **`package.json`**: If you are using a package manager, describe its contents and how to install dependencies.
-
-- **`webpack.config.js`** or **`gulpfile.js`**: Configuration files for build tools, if applicable.
-
-Feel free to explore each directory to understand the organization of the project. If you have any questions or need further clarification on a specific file or folder, don't hesitate to reach out or consult the documentation.
+- **`package.json`**
 
 
 ## Getting Started
@@ -94,6 +89,7 @@ If you have suggestions, found a bug, or want to contribute, please follow these
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT LICENSE.
+For details, please see the LICENSE file.
 
 
