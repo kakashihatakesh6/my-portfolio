@@ -1,6 +1,6 @@
 # Nikhil's Portfolio Website
 
-![Portfolio Screenshot]("https://github.com/kakashihatakesh6/my-portfolio/static/images/site-info/nkd-header.jpg")
+![nikhildasarportfolio](https://github.com/kakashihatakesh6/my-portfolio/assets/95236055/f3595870-44b7-40c2-bb22-33ba836b391a)
 
 ## Introduction
 
