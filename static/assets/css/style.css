@@ -111,7 +111,7 @@
   #bgcover {
     width: 100%;
     height: 100vh;
-    background: url("/static/images/me6_right_bright.png") repeat-x;
+    background: url("./static/images/me6_right_bright.png") repeat-x;
     background-size: contain;
     background-position-x: right;
   }
